@@ -1,0 +1,62 @@
+header {
+    background-color:brown;
+}
+ header nav ul li {
+     position: relative;
+    display: inline-block;
+    margin-top: 10px;
+    color: white;
+    left: 450px;
+    bottom: 40px;
+}
+header nav ul {
+    margin: auto;
+
+
+}
+li {
+    color: white;
+   font-style: italic; 
+   font-size: bold;
+   font-size: 30px;
+}
+img {
+    position: relative;
+    left: 200px;
+    top:30px;
+}
+header img{
+    top:20px;
+}
+
+.imges img{
+    margin-top: 30px;
+    margin-right: 27px;
+
+}
+
+
+
+ .last img { 
+   margin-top: 30px;
+    margin-right: 25px;
+    
+}  
+
+.paragraph{
+   
+  height: 300px;
+overflow:auto;
+margin-bottom: 17px;
+} 
+
+div input {
+    background-color: black;
+    color: white;
+}
+
+h3{
+    font-size: xx-large;
+    margin-bottom: 15px;
+}
+
